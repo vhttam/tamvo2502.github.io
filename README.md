@@ -1,5 +1,5 @@
-Trường Đại học Sài Gòn
-CTDL&GT
-Giảng viên: Đỗ Như Tài
-Sinh viên: Võ Huỳnh Thanh 
-Nội dung: Code CTDL&
+Trường Đại học Sài Gòn\n
+CTDL&GT\n
+Giảng viên: Đỗ Như Tài\n
+Sinh viên: Võ Huỳnh Thanh \n
+Nội dung: Code CTDL&\n
