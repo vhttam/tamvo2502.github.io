@@ -1,9 +1,7 @@
 Trường Đại học Sài Gòn
 
-[2025] CTDL&GT
-
-Giảng viên: Đỗ Như Tài
+[2025]
 
 Sinh viên: Võ Huỳnh Thanh Tâm
 
-Nội dung: Code CTDL&GT
+Nội dung: Basic Code
