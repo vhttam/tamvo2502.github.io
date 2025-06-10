@@ -4,6 +4,4 @@ Trường Đại học Sài Gòn
 
 Lớp: DCT124C7
 
-Giảng viên: Đỗ Như Tài
-
 Sinh viên: Võ Huỳnh Thanh Tâm
