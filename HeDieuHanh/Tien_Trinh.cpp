@@ -265,7 +265,7 @@ void RR(){
             if (processes[i].arrival_time<=current_time && !processes[i].is_completed) {
                 executedInThisCycle= true;
                 if(processes[i].remaining_time==processes[i].burst_time){
-                processes[i].start_time=current_time;
+                processes[i].start_time=max(current_time,processes[i].arrival_time);
                 }
                 if (processes[i].remaining_time<=quantum){
                     current_time=current_time+processes[i].remaining_time;
